@@ -9,7 +9,6 @@ I'm a **Software Engineering Developer** passionate about building efficient sol
 ### ⚡ Fun facts
 I love **surfing** 🏄‍♂️ and **swimming** 🏊‍♂️.
 
-I am half Brazilian 🇧🇷 and half Dutch 🇳🇱.
 ### 📫 How to reach me
 - **Email:** [leonardoruhmannwork@gmail.com](mailto:leonardoruhmannwork@gmail.com)
 - **LinkedIn:** [linkedin.com/in/leonardo-rühmann](https://www.linkedin.com/in/leonardo-r%C3%BChmann)
