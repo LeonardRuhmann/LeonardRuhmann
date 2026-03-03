@@ -3,7 +3,7 @@
 I'm a **Software Engineering Developer** passionate about building efficient solutions and exploring new technologies.
 
 ### 🔭 What I'm working on
-- I focus on **Web Development**, **AI**, and **Automation**.
+- I focus on **Data Engineering**, **AI**, and **Automation**.
 - Currently improving my skills in software engineering best practices.
 
 ### ⚡ Fun facts
