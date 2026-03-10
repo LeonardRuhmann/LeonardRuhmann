@@ -20,7 +20,7 @@ My passion is transforming raw, messy data into accessible, high-value informati
 | **Frontend** | Vue.js, React, TailwindCSS, Bootstrap |
 
 ### ⚡ Fun facts
-I love **surfing** 🏄‍♂️ and **swimming** 🏊‍♂️.
+I love **surfing** 🏄‍♂️ and **swimming** 🏊‍♂️
 
 ---
 
