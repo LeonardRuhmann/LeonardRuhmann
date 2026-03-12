@@ -14,7 +14,6 @@ My passion is transforming raw, messy data into accessible, high-value informati
 ### 🛠️ My current tech ecosystem
 
 | Area | Technologies |
-|---|---|
 | **Data & Backend** | Python, Pandas, SQL, FastAPI, Node.js |
 | **Infra & Cloud** | Docker, GitHub Actions (CI/CD), Render, Aiven, Netlify |
 | **Frontend** | Vue.js, React, TailwindCSS, Bootstrap |
