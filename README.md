@@ -30,4 +30,4 @@ I love **surfing** 🏄‍♂️ and **swimming** 🏊‍♂️
 
 ---
 
-*I believe the best engineering is the kind that solves real business problems in a scalable way. Feel free to explore my repositories — I document the architectures and projects I'm currently building!*
+*I believe the best engineering is the kind that solves real business problems in a scalable way. Feel free to explore my repositories. I document the architectures and projects I'm currently building!*
