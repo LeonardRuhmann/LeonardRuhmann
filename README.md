@@ -2,7 +2,7 @@
 
 I'm a **Software Engineering student** at UFC (Universidade Federal do Ceará), with a journey that evolved from **Web Development** to **Data Engineering** and **Cloud Architecture**.
 
-My passion is transforming raw, messy data into accessible, high-value information — not just building extraction pipelines, but designing the **complete data lifecycle**: from ETL orchestration and database modeling to building robust APIs and interactive cloud dashboards.
+My passion is transforming raw, messy data into accessible, high-value information, not just building extraction pipelines, but designing the **complete data lifecycle**: from ETL orchestration and database modeling to building robust APIs and interactive cloud dashboards.
 
 ---
 
