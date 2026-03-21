@@ -1,4 +1,4 @@
-# Hi there, I'm Leonardo Rühmann! 👋
+# Hi there, I'm Leonardo Rühmann! 
 
 I'm a **Software Engineering student** at UFC (Universidade Federal do Ceará), with a journey that evolved from **Web Development** to **Data Engineering** and **Cloud Architecture**.
 
